@@ -82,8 +82,8 @@ For every chapter I follow this process:
 ## 🚀 How to Use
 Clone this repository to explore the code, assignments, and projects locally:
 ```bash
-git clone https://github.com/ZakirCodes/Python_Learning_New.git
-cd Python_Learning_New
+git clone https://github.com/ZakirCodes/Python_Learning_Journey
+cd Python_Learning_Journey
 ```
 
 ---
