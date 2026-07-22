@@ -34,6 +34,7 @@ Python_Learning_New/
 ├── Chap_03_Input/
 │
 └── ...
+
 ```
 
 ## 📈 Progress
@@ -45,8 +46,6 @@ Python_Learning_New/
 | 04 | Data Types | ⏳ Not Started |
 | 05 | Type Casting | ⏳ Not Started |
 | 06 | Operators | ⏳ Not Started |
-
----
 
 ---
 
