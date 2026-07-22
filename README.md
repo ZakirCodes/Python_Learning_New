@@ -32,7 +32,7 @@ Python_Learning_Journey/
 │
 ├── README.md
 │
-├── Chap_01_Print/
+├── Chap_01_Print( )/
 │   ├── README.md
 │   ├── Assignments/
 │   └── Projects/
