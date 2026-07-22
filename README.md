@@ -5,6 +5,16 @@ This repository contains my complete Python learning journey from beginner to ad
 
 ---
 
+## 🎯 Goals
+- Learn Python from scratch
+- Build strong programming fundamentals
+- Practice problem-solving
+- Create real-world projects
+- Maintain clean and organized code
+- Build a professional GitHub portfolio
+
+---
+
 ## 📚 Chapters
 - ✅ Chapter 01 - Print()
 - ⏳ Chapter 02 - Variables
@@ -34,18 +44,7 @@ Python_Learning_New/
 ├── Chap_03_Input/
 │
 └── ...
-'''
----
-
-## 📈 Progress
-| Chapter | Topic | Status |
-|---------|-------|--------|
-| 01 | Print() | ✅ Completed |
-| 02 | Variables | ⏳ In Progress |
-| 03 | Input | ⏳ Not Started |
-| 04 | Data Types | ⏳ Not Started |
-| 05 | Type Casting | ⏳ Not Started |
-| 06 | Operators | ⏳ Not Started |
+```
 
 ---
 
@@ -68,23 +67,25 @@ For every chapter I follow this process:
 
 ---
 
+## 📈 Progress
+| Chapter | Topic | Status |
+|---------|-------|--------|
+| 01 | Print() | ✅ Completed |
+| 02 | Variables | ⏳ In Progress |
+| 03 | Input | ⏳ Not Started |
+| 04 | Data Types | ⏳ Not Started |
+| 05 | Type Casting | ⏳ Not Started |
+| 06 | Operators | ⏳ Not Started |
+
+---
+
 ## 🚀 How to Use
 Clone this repository to explore the code, assignments, and projects locally:
 ```bash
 git clone https://github.com/ZakirCodes/Python_Learning_New.git
 cd Python_Learning_New
-
 ```
----
 
-## 🎯 Goals
-- Learn Python from scratch
-- Build strong programming fundamentals
-- Practice problem-solving
-- Create real-world projects
-- Maintain clean and organized code
-- Build a professional GitHub portfolio
-  
 ---
 
 ## 🔗 Connect with Me
