@@ -28,7 +28,7 @@ This repository contains my complete Python learning journey from beginner to ad
 
 ## 📂 Repository Structure
 ```text
-Python_Learning_New/
+Python_Learning_Journey/
 │
 ├── README.md
 │
@@ -82,7 +82,7 @@ For every chapter I follow this process:
 ## 🚀 How to Use
 Clone this repository to explore the code, assignments, and projects locally:
 ```bash
-git clone https://github.com/ZakirCodes/Python_Learning_Journey
+git clone https://github.com/ZakirCodes/Python_Learning_Journey.git
 cd Python_Learning_Journey
 ```
 
