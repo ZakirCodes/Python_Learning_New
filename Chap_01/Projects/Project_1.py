@@ -1,0 +1,8 @@
+print("================")
+print("   MY PROFILE   ")
+print("================")
+print("Name   : Zakir")
+print("Age    : 18")
+print("Country: Pakistan")
+print("Dream  : Software Engineer")
+print("==========================")
