@@ -36,6 +36,18 @@ Python_Learning_New/
 └── ...
 ```
 
+## 📈 Progress
+| Chapter | Topic | Status |
+|---------|-------|--------|
+| 01 | Print() | ✅ Completed |
+| 02 | Variables | ⏳ In Progress |
+| 03 | Input | ⏳ Not Started |
+| 04 | Data Types | ⏳ Not Started |
+| 05 | Type Casting | ⏳ Not Started |
+| 06 | Operators | ⏳ Not Started |
+
+---
+
 ---
 
 ## 💻 Learning Method
@@ -54,18 +66,6 @@ For every chapter I follow this process:
 - Visual Studio Code
 - Git
 - GitHub
-
----
-
-## 📈 Progress
-| Chapter | Topic | Status |
-|---------|-------|--------|
-| 01 | Print() | ✅ Completed |
-| 02 | Variables | ⏳ In Progress |
-| 03 | Input | ⏳ Not Started |
-| 04 | Data Types | ⏳ Not Started |
-| 05 | Type Casting | ⏳ Not Started |
-| 06 | Operators | ⏳ Not Started |
 
 ---
 
