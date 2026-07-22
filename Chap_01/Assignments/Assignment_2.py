@@ -1,4 +1,4 @@
 print("Name:")
 print("Age:")
-print("Country")
+print("Country:")
 print("Dream:")
