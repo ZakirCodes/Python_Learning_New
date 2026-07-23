@@ -15,7 +15,7 @@ A simple digital business card program that stores Name, Skill, Email, and Count
 
 **Output:**
 ---
-<img width="799" height="229" alt="image" src="PASTE_SCREENSHOT_LINK_HERE" />
+<img width="891" height="201" alt="image" src="https://github.com/user-attachments/assets/01b8561a-5852-4210-ba52-4ca4a6803749" />
 
 ---
 
@@ -28,7 +28,7 @@ A gamer profile card that stores Username, Level, Coins, Health, and Weapon insi
 
 **Output:**
 ---
-<img width="806" height="257" alt="image" src="PASTE_SCREENSHOT_LINK_HERE" />
+<img width="891" height="152" alt="image" src="https://github.com/user-attachments/assets/75558603-63ed-4362-9537-d8b0cb4ed588" />
 
 ---
 
@@ -41,7 +41,7 @@ A mini digital resume that stores Name, Age, Country, Skills, Dream Job, Favorit
 
 **Output:**
 ---
-<img width="509" height="219" alt="image" src="PASTE_SCREENSHOT_LINK_HERE" />
+<img width="891" height="304" alt="image" src="https://github.com/user-attachments/assets/c57f7d5a-2fff-4807-b5e6-45045f61e117" />
 
 ---
 
