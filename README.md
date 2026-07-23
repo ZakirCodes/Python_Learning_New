@@ -17,7 +17,7 @@ This repository contains my complete Python learning journey from beginner to ad
 
 ## 📚 Chapters
 - ✅ Chapter 01 - Print()
-- ⏳ Chapter 02 - Variables
+- ✅ Chapter 02 - Variables
 - ⏳ Chapter 03 - Input
 - ⏳ Chapter 04 - Data Types
 - ⏳ Chapter 05 - Type Casting
@@ -34,12 +34,19 @@ Python_Learning_Journey/
 │
 ├── Chap_01_Print/
 │   ├── README.md
+│   ├── First_Program.py
 │   ├── Assignments/
 │   └── Projects/
 │       ├── README.md
 │       └── (images/screenshots included here)
 │
-├── Chap_02_Variables/
+├── Chap_02_Variable/
+│   ├── README.md
+│   ├── variable.py
+│   ├── Assignments/
+│   └── Projects/
+│       ├── README.md
+│       └── (images/screenshots included here)
 │
 ├── Chap_03_Input/
 │
@@ -71,7 +78,7 @@ For every chapter I follow this process:
 | Chapter | Topic | Status |
 |---------|-------|--------|
 | 01 | Print() | ✅ Completed |
-| 02 | Variables | ⏳ In Progress |
+| 02 | Variables | ✅ Completed |
 | 03 | Input | ⏳ Not Started |
 | 04 | Data Types | ⏳ Not Started |
 | 05 | Type Casting | ⏳ Not Started |
