@@ -22,7 +22,7 @@ print("Hello, World!")
 
 ## 📂 Folder Structure
 ```text
-Chap_01_Print()/
+Chap_01_Print/
 ├── First_Program.py
 ├── README.md
 ├── Assignments/
